@@ -1,0 +1,10 @@
+uid: SR-0048
+type: system_requirement
+status: approved
+title: Manage customer satisfaction
+text: Customer satisfaction shall be managed.
+links:
+- target: UR-0014
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR7.6

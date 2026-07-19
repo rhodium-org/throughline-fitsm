@@ -1,0 +1,10 @@
+uid: SR-0049
+type: system_requirement
+status: approved
+title: Identify suppliers
+text: Internal and external suppliers shall be identified.
+links:
+- target: UR-0015
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR8.1

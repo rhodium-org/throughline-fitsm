@@ -1,0 +1,11 @@
+uid: SR-0018
+type: system_requirement
+status: approved
+title: Maintain a service portfolio
+text: A service portfolio shall be maintained. All services shall be specified as part of the service
+  portfolio.
+links:
+- target: UR-0008
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR1.1

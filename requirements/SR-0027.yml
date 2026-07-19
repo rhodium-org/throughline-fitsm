@@ -1,0 +1,11 @@
+uid: SR-0027
+type: system_requirement
+status: approved
+title: Identify required reports
+text: Required reports shall be identified. Reporting shall cover performance of services and processes
+  against defined targets, significant events and detected nonconformities.
+links:
+- target: UR-0010
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR3.1

@@ -1,0 +1,11 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: Planning IT Service Management (PLAN)
+text: General SMS requirements for planning the service management system and its processes (the PLAN
+  phase).
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 GR4

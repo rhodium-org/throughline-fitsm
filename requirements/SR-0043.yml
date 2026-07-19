@@ -1,0 +1,10 @@
+uid: SR-0043
+type: system_requirement
+status: approved
+title: Identify service customers
+text: Service customers shall be identified.
+links:
+- target: UR-0014
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR7.1

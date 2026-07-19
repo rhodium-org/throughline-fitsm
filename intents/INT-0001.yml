@@ -1,0 +1,10 @@
+uid: INT-0001
+type: intent
+status: approved
+title: IT services can be managed through a lightweight service management system
+text: FitSM exists so that an organisation delivering IT services can run an effective but lightweight
+  service management system (SMS) — a defined set of general management practices and service management
+  processes that is practical, consistent and sufficient — rather than adopting a heavyweight framework.
+normative: false
+attrs:
+  source_ref: FitSM-1

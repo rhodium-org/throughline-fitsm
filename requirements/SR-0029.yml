@@ -1,0 +1,10 @@
+uid: SR-0029
+type: system_requirement
+status: approved
+title: Produce and deliver reports
+text: Reports shall be produced and delivered to their recipients according to specifications.
+links:
+- target: UR-0010
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR3.3

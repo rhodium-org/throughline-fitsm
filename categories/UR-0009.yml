@@ -1,0 +1,11 @@
+uid: UR-0009
+type: user_requirement
+status: approved
+title: Service Level Management (SLM)
+text: The process that maintains the service catalogue and agrees and reviews service levels with customers
+  and supporting parties.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 PR2

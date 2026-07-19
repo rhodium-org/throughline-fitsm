@@ -1,0 +1,10 @@
+uid: UR-0010
+type: user_requirement
+status: approved
+title: Service Reporting Management (SRM)
+text: The process that identifies, specifies and produces service and process reports for their recipients.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 PR3

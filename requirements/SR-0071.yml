@@ -1,0 +1,11 @@
+uid: SR-0071
+type: system_requirement
+status: approved
+title: Approve changes
+text: Changes shall be approved in a consistent manner. The required level of approval shall be determined
+  based on defined criteria.
+links:
+- target: UR-0019
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR12.4

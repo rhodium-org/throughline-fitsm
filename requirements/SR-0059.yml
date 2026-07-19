@@ -1,0 +1,11 @@
+uid: SR-0059
+type: system_requirement
+status: approved
+title: Identify and register problems
+text: Problems shall be identified and registered in a consistent manner, based on analysing patterns
+  and trends in the occurrence of incidents.
+links:
+- target: UR-0017
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR10.1

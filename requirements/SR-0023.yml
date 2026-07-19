@@ -1,0 +1,11 @@
+uid: SR-0023
+type: system_requirement
+status: approved
+title: Agree and review SLAs
+text: For all services delivered to customers, service level agreements (SLAs) shall be in place and reviewed
+  at planned intervals.
+links:
+- target: UR-0009
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR2.2

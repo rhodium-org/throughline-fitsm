@@ -1,0 +1,10 @@
+uid: SR-0076
+type: system_requirement
+status: approved
+title: Plan deployment with acceptance criteria
+text: Deployment of releases shall be planned, including acceptance criteria, as needed.
+links:
+- target: UR-0020
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR13.3

@@ -1,0 +1,12 @@
+uid: SR-0017
+type: system_requirement
+status: approved
+title: Subject the SMS to continual improvement
+text: The service management policy, service management plan and all service management processes shall
+  be subject to continual improvement. Respective improvements shall be identified, evaluated and implemented
+  according to the Continual Service Improvement Management process (see PR14).
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: FitSM-1 GR7.2

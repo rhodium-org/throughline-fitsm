@@ -1,0 +1,12 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: Define and communicate a service management policy
+text: A general service management policy shall be defined that includes overall service management goals
+  as well as a commitment to continual improvement and a service-oriented and process-oriented approach.
+  The service management policy shall be approved and communicated to relevant parties by the SMS owner.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: FitSM-1 GR1.2

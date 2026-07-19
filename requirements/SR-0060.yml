@@ -1,0 +1,10 @@
+uid: SR-0060
+type: system_requirement
+status: approved
+title: Investigate problems
+text: Problems shall be investigated to identify actions to resolve them or reduce their impact on services.
+links:
+- target: UR-0017
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR10.2

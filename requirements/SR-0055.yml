@@ -1,0 +1,11 @@
+uid: SR-0055
+type: system_requirement
+status: approved
+title: Escalate incidents and requests consistently
+text: Functional and hierarchical escalation of incidents and service requests shall be carried out in
+  a consistent manner.
+links:
+- target: UR-0016
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR9.3

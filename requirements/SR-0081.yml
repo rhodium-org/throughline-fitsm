@@ -1,0 +1,10 @@
+uid: SR-0081
+type: system_requirement
+status: approved
+title: Assess improvement opportunities
+text: Opportunities for improvement shall be assessed to decide on necessary actions.
+links:
+- target: UR-0021
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR14.2

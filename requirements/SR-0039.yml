@@ -1,0 +1,10 @@
+uid: SR-0039
+type: system_requirement
+status: approved
+title: Assess information security risks
+text: Information security risks shall be assessed at planned intervals.
+links:
+- target: UR-0013
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR6.2

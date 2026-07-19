@@ -1,0 +1,10 @@
+uid: UR-0008
+type: user_requirement
+status: approved
+title: Service Portfolio Management (SPM)
+text: The process that maintains the service portfolio and manages services through their lifecycle.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 PR1

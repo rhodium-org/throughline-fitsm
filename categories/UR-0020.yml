@@ -1,0 +1,11 @@
+uid: UR-0020
+type: user_requirement
+status: approved
+title: Release & Deployment Management (RDM)
+text: The process that defines release and deployment strategies and builds, tests, deploys and evaluates
+  releases.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 PR13

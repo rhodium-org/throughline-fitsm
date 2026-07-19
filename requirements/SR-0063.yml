@@ -1,0 +1,11 @@
+uid: SR-0063
+type: system_requirement
+status: approved
+title: Define the scope of configuration management
+text: The scope of configuration management shall be defined together with the types of configuration
+  items (CIs) and relationships to be considered.
+links:
+- target: UR-0018
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR11.1

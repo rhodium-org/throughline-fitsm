@@ -1,0 +1,10 @@
+uid: UR-0012
+type: user_requirement
+status: approved
+title: Capacity Management (CAPM)
+text: The process that identifies capacity and performance requirements and plans capacity to meet them.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 PR5

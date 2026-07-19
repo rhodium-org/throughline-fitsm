@@ -1,0 +1,14 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: Document definitions of all processes
+text: 'Documented definitions of all service management processes (see PR1–PR14) shall be created and
+  maintained. Each of these definitions shall include: description of the goals of the process; description
+  of the inputs, activities and outputs of the process; description of process-specific roles and responsibilities;
+  description of interfaces to other processes; related process-specific policies as needed; related process-
+  and activity-specific procedures as needed.'
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: FitSM-1 GR2.2

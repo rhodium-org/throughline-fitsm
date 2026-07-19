@@ -1,0 +1,10 @@
+uid: SR-0046
+type: system_requirement
+status: approved
+title: Conduct service reviews with customers
+text: Service reviews with customers shall be conducted at planned intervals.
+links:
+- target: UR-0014
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR7.4

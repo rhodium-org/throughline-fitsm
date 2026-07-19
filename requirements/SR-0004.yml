@@ -1,0 +1,12 @@
+uid: SR-0004
+type: system_requirement
+status: approved
+title: Document the key elements of the SMS
+text: The key elements of the SMS shall be documented to support effective planning. This documentation
+  shall include the SMS scope statement (see GR3), the general service management policy (see GR1) as
+  well as the service management plan and related plans (see GR4).
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: FitSM-1 GR2.1

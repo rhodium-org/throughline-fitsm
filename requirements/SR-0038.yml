@@ -1,0 +1,11 @@
+uid: SR-0038
+type: system_requirement
+status: approved
+title: Identify security requirements and define policies
+text: Information security requirements shall be identified and information security policies defined
+  and reviewed at planned intervals.
+links:
+- target: UR-0013
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR6.1

@@ -1,0 +1,11 @@
+uid: SR-0068
+type: system_requirement
+status: approved
+title: Register and classify changes
+text: All changes shall be registered and classified in a consistent manner. Classification shall be based
+  on defined criteria and consider different types of changes, including emergency changes and major changes.
+links:
+- target: UR-0019
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR12.1

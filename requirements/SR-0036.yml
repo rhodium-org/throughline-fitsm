@@ -1,0 +1,11 @@
+uid: SR-0036
+type: system_requirement
+status: approved
+title: Plan future capacity
+text: Future capacity shall be planned to meet identified requirements, considering human, technical and
+  financial resources.
+links:
+- target: UR-0012
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR5.3

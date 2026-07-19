@@ -1,0 +1,11 @@
+uid: SR-0045
+type: system_requirement
+status: approved
+title: Establish customer communication channels
+text: Channels used to communicate with each customer, including mechanisms for service ordering, escalation
+  and complaint shall be established.
+links:
+- target: UR-0014
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR7.3

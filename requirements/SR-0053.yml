@@ -1,0 +1,11 @@
+uid: SR-0053
+type: system_requirement
+status: approved
+title: Register, classify and prioritise incidents and requests
+text: All incidents and service requests shall be registered, classified and prioritised in a consistent
+  manner, taking into account service targets from SLAs.
+links:
+- target: UR-0016
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR9.1

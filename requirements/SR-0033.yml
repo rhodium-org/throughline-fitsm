@@ -1,0 +1,10 @@
+uid: SR-0033
+type: system_requirement
+status: approved
+title: Monitor availability
+text: Availability of services and service components shall be monitored.
+links:
+- target: UR-0011
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR4.4

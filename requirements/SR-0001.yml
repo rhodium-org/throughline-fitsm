@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: Assign an accountable SMS owner
+text: A member of top management of the service provider(s) involved in the delivery of services shall
+  be assigned as the SMS owner to be accountable for the overall SMS.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: FitSM-1 GR1.1

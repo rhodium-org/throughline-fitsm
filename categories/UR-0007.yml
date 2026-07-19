@@ -1,0 +1,11 @@
+uid: UR-0007
+type: user_requirement
+status: approved
+title: Continually Improving Service Management (ACT)
+text: General SMS requirements for correcting nonconformities and continually improving the service management
+  system (the ACT phase).
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 GR7

@@ -1,0 +1,10 @@
+uid: SR-0082
+type: system_requirement
+status: approved
+title: Control the implementation of improvements
+text: The implementation of actions for improvement shall be controlled in a consistent manner.
+links:
+- target: UR-0021
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR14.3

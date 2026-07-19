@@ -1,0 +1,10 @@
+uid: SR-0078
+type: system_requirement
+status: approved
+title: Prepare for unsuccessful deployment
+text: Deployment preparation shall consider steps to be taken in case of unsuccessful deployment.
+links:
+- target: UR-0020
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR13.5

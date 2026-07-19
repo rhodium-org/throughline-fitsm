@@ -1,0 +1,10 @@
+uid: SR-0047
+type: system_requirement
+status: approved
+title: Handle customer complaints consistently
+text: Service complaints from customers shall be handled in a consistent manner.
+links:
+- target: UR-0014
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR7.5

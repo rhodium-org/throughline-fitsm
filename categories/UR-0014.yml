@@ -1,0 +1,11 @@
+uid: UR-0014
+type: user_requirement
+status: approved
+title: Customer Relationship Management (CRM)
+text: The process that manages the relationship with service customers, including communication, reviews,
+  complaints and satisfaction.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 PR7

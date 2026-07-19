@@ -1,0 +1,10 @@
+uid: SR-0042
+type: system_requirement
+status: approved
+title: Carry out access control consistently
+text: Access control, including provisioning of access rights, shall be carried out in a consistent manner.
+links:
+- target: UR-0013
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR6.5

@@ -1,0 +1,11 @@
+uid: UR-0006
+type: user_requirement
+status: approved
+title: Monitoring & Reviewing IT Service Management (CHECK)
+text: General SMS requirements for measuring, assessing and auditing the effectiveness of the service
+  management system (the CHECK phase).
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 GR6

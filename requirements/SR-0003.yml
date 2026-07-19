@@ -1,0 +1,10 @@
+uid: SR-0003
+type: system_requirement
+status: approved
+title: Conduct management reviews
+text: The SMS owner shall conduct management reviews at planned intervals.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: FitSM-1 GR1.3

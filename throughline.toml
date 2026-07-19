@@ -1,0 +1,55 @@
+[project]
+name = "FitSM-1 Requirements (throughline source)"
+format_version = 2
+
+# A throughline *source*: a standalone graph a consuming project composes via
+# throughline-compose, importing it under a namespace (e.g. `fitsm`) and referencing
+# requirements as `fitsm:SR-0001`. The UIDs here are this source's own and immutable; the
+# FitSM-1 requirement identifier (e.g. "FitSM-1 PR13.4") lives in `attrs.source_ref`, never
+# in the UID.
+#
+# LICENCE. FitSM is a lightweight IT service management standard maintained by ITEMO e.V.
+# (the FitSM working group). All parts of FitSM are published under the Creative Commons
+# Attribution 4.0 International License (CC BY 4.0), which permits reproduction and
+# derivation with attribution. Requirement text here is reproduced/restated from FitSM-1
+# with the requirement cited in attrs.source_ref. See NOTICE.
+
+[grounding]
+root_types = ["intent"]
+delivery_roots = ["intent"]
+ground_link_types = ["derives_from", "implements"]
+ai_origins = ["ai", "hybrid"]
+
+# The 7 general-requirement categories and the 14 service management processes are
+# user_requirements; each individual FitSM-1 requirement is a system_requirement
+# implementing its category/process.
+[types.user_requirement]
+attrs.source_ref = { required = true }
+
+[types.system_requirement]
+attrs.source_ref = { required = true }
+
+[links]
+types = ["derives_from", "implements", "relates"]
+
+[link_rules]
+derives_from = { from = ["user_requirement"], to = ["intent"] }
+implements   = { from = ["system_requirement"], to = ["user_requirement"] }
+
+[status]
+values = ["proposed", "draft", "deferred", "approved", "ratified", "implemented",
+          "verified", "suspect", "rejected", "deleted"]
+
+[transitions]
+proposed    = ["draft", "approved", "ratified", "deferred", "rejected", "deleted"]
+draft       = ["approved", "deferred", "rejected", "deleted"]
+deferred    = ["draft", "approved", "rejected", "deleted"]
+approved    = ["ratified", "implemented", "deferred", "suspect", "rejected", "deleted"]
+ratified    = ["implemented", "suspect", "rejected", "deleted"]
+implemented = ["verified", "suspect", "rejected", "deleted"]
+verified    = ["implemented", "suspect", "deleted"]
+suspect     = ["approved", "ratified", "implemented", "verified", "rejected", "deleted"]
+rejected    = ["draft", "deleted"]
+
+[docs]
+paths = ["docs/*.md", "README.md"]

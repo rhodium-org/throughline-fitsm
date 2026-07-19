@@ -1,0 +1,12 @@
+uid: SR-0077
+type: system_requirement
+status: approved
+title: Build, test and evaluate releases before deployment
+text: Releases shall be built, tested and evaluated against acceptance criteria prior to being deployed.
+  The extent of release testing shall be appropriate to the type of release and its potential impact on
+  services.
+links:
+- target: UR-0020
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR13.4

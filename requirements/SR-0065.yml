@@ -1,0 +1,11 @@
+uid: SR-0065
+type: system_requirement
+status: approved
+title: Maintain CI information in a CMDB
+text: Information on CIs and their relationships with other CIs shall be maintained in a configuration
+  management database (CMDB).
+links:
+- target: UR-0018
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR11.3

@@ -1,0 +1,11 @@
+uid: UR-0015
+type: user_requirement
+status: approved
+title: Supplier Relationship Management (SUPPM)
+text: The process that manages the relationship with internal and external suppliers, including communication
+  and evaluation.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 PR8

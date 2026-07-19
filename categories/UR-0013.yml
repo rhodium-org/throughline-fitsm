@@ -1,0 +1,11 @@
+uid: UR-0013
+type: user_requirement
+status: approved
+title: Information Security Management (ISM)
+text: The process that identifies information security requirements and risks and implements controls
+  to meet them.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 PR6

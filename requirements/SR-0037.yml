@@ -1,0 +1,11 @@
+uid: SR-0037
+type: system_requirement
+status: approved
+title: Analyse performance from capacity monitoring
+text: Performance of services and service components shall be analysed based on monitoring the degree
+  of capacity utilisation and identifying operational warnings and exceptions.
+links:
+- target: UR-0012
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR5.4

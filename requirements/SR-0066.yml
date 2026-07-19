@@ -1,0 +1,10 @@
+uid: SR-0066
+type: system_requirement
+status: approved
+title: Control CIs and track changes
+text: CIs shall be controlled and changes to CIs tracked in the CMDB.
+links:
+- target: UR-0018
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR11.4

@@ -1,0 +1,11 @@
+uid: SR-0054
+type: system_requirement
+status: approved
+title: Resolve incidents and fulfil requests
+text: Incidents shall be resolved and service requests fulfilled, taking into consideration information
+  from SLAs and on known errors, as relevant.
+links:
+- target: UR-0016
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR9.2

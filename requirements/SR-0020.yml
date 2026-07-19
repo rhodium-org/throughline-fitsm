@@ -1,0 +1,12 @@
+uid: SR-0020
+type: system_requirement
+status: approved
+title: Manage the service lifecycle
+text: The evolution of services through their lifecycle shall be managed. This shall include the planning
+  of new services and major alterations to existing services. Plans shall consider timescales, responsibilities,
+  new or changed technology, communication and service acceptance criteria.
+links:
+- target: UR-0008
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR1.3

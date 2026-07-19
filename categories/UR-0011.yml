@@ -1,0 +1,11 @@
+uid: UR-0011
+type: user_requirement
+status: approved
+title: Service Availability & Continuity Management (SACM)
+text: The process that identifies availability and continuity requirements and risks and takes measures
+  to meet them.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 PR4

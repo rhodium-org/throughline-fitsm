@@ -1,0 +1,10 @@
+uid: SR-0069
+type: system_requirement
+status: approved
+title: Define steps for each type of change
+text: For each type of change, steps shall be defined for handling them in a consistent manner.
+links:
+- target: UR-0019
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR12.2

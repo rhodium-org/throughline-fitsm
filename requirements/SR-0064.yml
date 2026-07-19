@@ -1,0 +1,11 @@
+uid: SR-0064
+type: system_requirement
+status: approved
+title: Set a sufficient level of configuration detail
+text: The level of detail of configuration information shall be sufficient to support effective control
+  over CIs.
+links:
+- target: UR-0018
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR11.2

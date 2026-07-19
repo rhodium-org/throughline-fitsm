@@ -1,0 +1,11 @@
+uid: SR-0040
+type: system_requirement
+status: approved
+title: Implement information security controls
+text: Physical, technical and organisational information security controls shall be implemented to reduce
+  the probability and impact of identified information security risks and meet identified requirements.
+links:
+- target: UR-0013
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR6.3

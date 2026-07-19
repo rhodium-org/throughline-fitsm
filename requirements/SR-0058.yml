@@ -1,0 +1,10 @@
+uid: SR-0058
+type: system_requirement
+status: approved
+title: Identify and handle major incidents
+text: Major incidents shall be identified based on defined criteria, and handled in a consistent manner.
+links:
+- target: UR-0016
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR9.6

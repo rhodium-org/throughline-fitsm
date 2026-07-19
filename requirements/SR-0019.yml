@@ -1,0 +1,11 @@
+uid: SR-0019
+type: system_requirement
+status: approved
+title: Evaluate proposals for new or changed services
+text: Proposals for new or changed services shall be evaluated based on predicted demand, required resources
+  and expected benefits.
+links:
+- target: UR-0008
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR1.2

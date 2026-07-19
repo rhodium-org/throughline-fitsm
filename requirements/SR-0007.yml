@@ -1,0 +1,11 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: Control documented information
+text: 'Documented information shall be controlled, addressing the following activities as applicable:
+  creation and approval; communication and distribution; review; versioning and change tracking.'
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: FitSM-1 GR2.4

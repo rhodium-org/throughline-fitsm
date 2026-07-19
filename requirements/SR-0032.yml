@@ -1,0 +1,11 @@
+uid: SR-0032
+type: system_requirement
+status: approved
+title: Take measures to meet availability and continuity requirements
+text: Appropriate measures shall be taken to reduce the probability and impact of identified availability
+  and continuity risks and meet identified requirements.
+links:
+- target: UR-0011
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR4.3

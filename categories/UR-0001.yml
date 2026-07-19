@@ -1,0 +1,11 @@
+uid: UR-0001
+type: user_requirement
+status: approved
+title: Top Management Commitment & Accountability (MCA)
+text: General SMS requirements establishing that a member of top management owns and is accountable for
+  the service management system.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 GR1

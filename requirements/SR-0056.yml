@@ -1,0 +1,11 @@
+uid: SR-0056
+type: system_requirement
+status: approved
+title: Keep customers and users informed
+text: Customers and users shall be kept informed of the progress of incidents and service requests, as
+  appropriate.
+links:
+- target: UR-0016
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR9.4

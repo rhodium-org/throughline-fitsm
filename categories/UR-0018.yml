@@ -1,0 +1,11 @@
+uid: UR-0018
+type: user_requirement
+status: approved
+title: Configuration Management (CONFM)
+text: The process that defines the scope of configuration management and maintains configuration information
+  about CIs in a CMDB.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 PR11

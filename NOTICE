@@ -1,0 +1,20 @@
+throughline-fitsm
+Copyright 2026 Time Back Solutions Limited
+
+This product includes work developed by Time Back Solutions Limited.
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file for the
+full terms.
+
+This repository is a throughline *source*: a requirements graph, not a program. It
+expresses FitSM-1 "Requirements" (version 3.0.1) as a grounded IDD graph so consuming
+projects can compose it with throughline-compose.
+
+FitSM is a lightweight IT service management standards family maintained by ITEMO e.V. (the
+FitSM working group), and was co-funded by the European Commission under the Seventh
+Framework Programme (contract number 312851). All parts of FitSM are published under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0,
+https://creativecommons.org/licenses/by/4.0/), which permits reproduction and derivation
+with attribution. The requirement text restated here is derived from FitSM-1; each item's
+attrs.source_ref cites the relevant requirement. ITEMO does not endorse this repository. The
+authoritative documents are available from the FitSM working group at https://www.fitsm.eu.

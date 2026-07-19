@@ -1,0 +1,11 @@
+uid: SR-0073
+type: system_requirement
+status: approved
+title: Maintain a schedule of changes
+text: A schedule of changes shall be maintained. It shall contain details of approved changes and intended
+  deployment dates, which shall be communicated to interested parties.
+links:
+- target: UR-0019
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR12.6

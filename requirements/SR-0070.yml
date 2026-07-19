@@ -1,0 +1,11 @@
+uid: SR-0070
+type: system_requirement
+status: approved
+title: Assess changes
+text: Changes shall be assessed in a consistent manner, taking into consideration benefits, risks, potential
+  impact, effort and technical feasibility.
+links:
+- target: UR-0019
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR12.3

@@ -1,0 +1,10 @@
+uid: SR-0067
+type: system_requirement
+status: approved
+title: Verify CMDB information
+text: The information stored in the CMDB shall be verified at planned intervals.
+links:
+- target: UR-0018
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR11.5

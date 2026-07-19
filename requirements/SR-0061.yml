@@ -1,0 +1,11 @@
+uid: SR-0061
+type: system_requirement
+status: approved
+title: Register known errors
+text: If a problem is not permanently resolved, a known error shall be registered together with actions
+  such as effective workarounds and temporary fixes.
+links:
+- target: UR-0017
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR10.3

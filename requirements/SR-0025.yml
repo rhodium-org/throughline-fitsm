@@ -1,0 +1,11 @@
+uid: SR-0025
+type: system_requirement
+status: approved
+title: Agree and review UAs and OLAs
+text: For supporting services or service components, underpinning agreements (UAs) and operational level
+  agreements (OLAs) shall be agreed as needed and reviewed at planned intervals.
+links:
+- target: UR-0009
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR2.4

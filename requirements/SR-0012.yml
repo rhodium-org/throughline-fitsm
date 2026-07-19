@@ -1,0 +1,10 @@
+uid: SR-0012
+type: system_requirement
+status: approved
+title: Implement the service management plan
+text: The service management plan shall be implemented.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: FitSM-1 GR5.1

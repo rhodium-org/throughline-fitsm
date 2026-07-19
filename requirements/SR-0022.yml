@@ -1,0 +1,10 @@
+uid: SR-0022
+type: system_requirement
+status: approved
+title: Maintain a service catalogue
+text: A service catalogue shall be maintained.
+links:
+- target: UR-0009
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR2.1

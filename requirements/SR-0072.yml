@@ -1,0 +1,10 @@
+uid: SR-0072
+type: system_requirement
+status: approved
+title: Review and close changes
+text: Changes shall be subject to a post implementation review as needed, and closed in a consistent manner.
+links:
+- target: UR-0019
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR12.5

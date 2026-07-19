@@ -1,0 +1,11 @@
+uid: SR-0044
+type: system_requirement
+status: approved
+title: Designate a contact for each customer
+text: For each customer, there shall be a designated contact responsible for managing the relationship
+  with them.
+links:
+- target: UR-0014
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR7.2

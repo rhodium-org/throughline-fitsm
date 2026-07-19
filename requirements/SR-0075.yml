@@ -1,0 +1,11 @@
+uid: SR-0075
+type: system_requirement
+status: approved
+title: Define criteria for including changes in a release
+text: Criteria for including approved changes in a release shall be defined, taking into consideration
+  the applicable release and deployment strategy.
+links:
+- target: UR-0020
+  type: implements
+attrs:
+  source_ref: FitSM-1 PR13.2

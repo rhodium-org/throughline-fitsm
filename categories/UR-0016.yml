@@ -1,0 +1,11 @@
+uid: UR-0016
+type: user_requirement
+status: approved
+title: Incident & Service Request Management (ISRM)
+text: The process that registers, resolves, escalates and closes incidents and service requests, including
+  major incidents.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: FitSM-1 PR9
