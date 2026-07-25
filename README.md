@@ -9,7 +9,7 @@ references a requirement by UID:
 # throughline.toml in a consuming project
 [[sources]]
 namespace = "fitsm"
-url = "https://github.com/timebacksolutions/throughline-fitsm"
+url = "https://github.com/rhodium-org/throughline-fitsm"
 ref = "v3.0.1"
 ```
 
