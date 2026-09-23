@@ -2,8 +2,8 @@
 name = "FitSM-1 Requirements (throughline source)"
 format_version = 3
 
-# A throughline *source*: a standalone graph a consuming project composes via
-# throughline-compose, importing it under a namespace (e.g. `fitsm`) and referencing
+# A throughline *source*: a standalone graph a consuming project composes with `tl`,
+# importing it under a namespace (e.g. `fitsm`) and referencing
 # requirements as `fitsm:SR-0001`. The UIDs here are this source's own and immutable; the
 # FitSM-1 requirement identifier (e.g. "FitSM-1 PR13.4") lives in `attrs.source_ref`, never
 # in the UID.

@@ -8,7 +8,7 @@ full terms.
 
 This repository is a throughline *source*: a requirements graph, not a program. It
 expresses FitSM-1 "Requirements" (version 3.0.1) as a grounded IDD graph so consuming
-projects can compose it with throughline-compose.
+projects can compose it with throughline.
 
 FitSM is a lightweight IT service management standards family maintained by ITEMO e.V. (the
 FitSM working group), and was co-funded by the European Commission under the Seventh

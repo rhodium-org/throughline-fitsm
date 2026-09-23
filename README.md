@@ -21,8 +21,10 @@ links:
 
 It lets a team ground its service management in FitSM: "our release process *satisfies*
 `fitsm:SR-0077` (release testing against acceptance criteria)", "we follow
-`fitsm:SR-0053` (register, classify and prioritise incidents)" — checked structurally by
-`tl-compose check --strict`. FitSM's release-and-deployment process (PR13) carries the
+`fitsm:SR-0053` (register, classify and prioritise incidents)" — checked structurally when
+`tl check --strict` in the consuming project composes this source. That needs `tl` from
+[throughline](https://pypi.org/project/throughline/) 3.11.0 or later; an older `tl` reports the
+reference as `namespace-unresolved`. FitSM's release-and-deployment process (PR13) carries the
 explicit **testing** requirement (PR13.4), so this source pairs naturally with the
 dedicated testing sources (`throughline-istqb`, `throughline-iso-29119`,
 `throughline-govuk-testing`, `throughline-nist-800-115`).
