@@ -1,9 +1,10 @@
 uid: SR-0023
 type: system_requirement
-status: approved
+status: proposed
 title: Agree and review SLAs
-text: For all services delivered to customers, service level agreements (SLAs) shall be in place and reviewed
-  at planned intervals.
+text: For all services delivered to customers, service level agreements (SLAs) shall
+  be in place and reviewed at planned intervals.
+normative: true
 links:
 - target: UR-0009
   type: implements

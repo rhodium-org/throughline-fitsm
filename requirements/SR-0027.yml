@@ -1,9 +1,11 @@
 uid: SR-0027
 type: system_requirement
-status: approved
+status: proposed
 title: Identify required reports
-text: Required reports shall be identified. Reporting shall cover performance of services and processes
-  against defined targets, significant events and detected nonconformities.
+text: Required reports shall be identified. Reporting shall cover performance of
+  services and processes against defined targets, significant events and detected
+  nonconformities.
+normative: true
 links:
 - target: UR-0010
   type: implements

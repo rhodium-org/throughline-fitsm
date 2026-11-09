@@ -1,9 +1,11 @@
 uid: SR-0028
 type: system_requirement
-status: approved
+status: proposed
 title: Agree and specify reports
-text: Reports shall be agreed with their recipients and specified. The specification of each report shall
-  include its identity, purpose, audience, frequency, content, format and method of delivery.
+text: Reports shall be agreed with their recipients and specified. The specification
+  of each report shall include its identity, purpose, audience, frequency, content,
+  format and method of delivery.
+normative: true
 links:
 - target: UR-0010
   type: implements

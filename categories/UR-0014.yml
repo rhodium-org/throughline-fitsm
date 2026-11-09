@@ -1,9 +1,10 @@
 uid: UR-0014
 type: user_requirement
-status: approved
+status: proposed
 title: Customer Relationship Management (CRM)
-text: The process that manages the relationship with service customers, including communication, reviews,
-  complaints and satisfaction.
+text: The process that manages the relationship with service customers, including
+  communication, reviews, complaints and satisfaction.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

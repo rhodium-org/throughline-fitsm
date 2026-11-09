@@ -1,9 +1,10 @@
 uid: SR-0070
 type: system_requirement
-status: approved
+status: proposed
 title: Assess changes
-text: Changes shall be assessed in a consistent manner, taking into consideration benefits, risks, potential
-  impact, effort and technical feasibility.
+text: Changes shall be assessed in a consistent manner, taking into consideration
+  benefits, risks, potential impact, effort and technical feasibility.
+normative: true
 links:
 - target: UR-0019
   type: implements

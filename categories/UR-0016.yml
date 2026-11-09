@@ -1,9 +1,10 @@
 uid: UR-0016
 type: user_requirement
-status: approved
+status: proposed
 title: Incident & Service Request Management (ISRM)
-text: The process that registers, resolves, escalates and closes incidents and service requests, including
-  major incidents.
+text: The process that registers, resolves, escalates and closes incidents and service
+  requests, including major incidents.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

@@ -1,9 +1,10 @@
 uid: SR-0015
 type: system_requirement
-status: approved
+status: proposed
 title: Assess or audit the SMS at planned intervals
-text: Assessments or audits of the SMS shall be conducted at planned intervals to evaluate the level of
-  maturity and conformity.
+text: Assessments or audits of the SMS shall be conducted at planned intervals to
+  evaluate the level of maturity and conformity.
+normative: true
 links:
 - target: UR-0006
   type: implements

@@ -1,9 +1,10 @@
 uid: SR-0056
 type: system_requirement
-status: approved
+status: proposed
 title: Keep customers and users informed
-text: Customers and users shall be kept informed of the progress of incidents and service requests, as
-  appropriate.
+text: Customers and users shall be kept informed of the progress of incidents and
+  service requests, as appropriate.
+normative: true
 links:
 - target: UR-0016
   type: implements

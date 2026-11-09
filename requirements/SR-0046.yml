@@ -1,8 +1,9 @@
 uid: SR-0046
 type: system_requirement
-status: approved
+status: proposed
 title: Conduct service reviews with customers
 text: Service reviews with customers shall be conducted at planned intervals.
+normative: true
 links:
 - target: UR-0014
   type: implements

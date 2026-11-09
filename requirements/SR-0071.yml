@@ -1,9 +1,10 @@
 uid: SR-0071
 type: system_requirement
-status: approved
+status: proposed
 title: Approve changes
-text: Changes shall be approved in a consistent manner. The required level of approval shall be determined
-  based on defined criteria.
+text: Changes shall be approved in a consistent manner. The required level of approval
+  shall be determined based on defined criteria.
+normative: true
 links:
 - target: UR-0019
   type: implements

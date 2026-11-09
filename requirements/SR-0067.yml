@@ -1,8 +1,9 @@
 uid: SR-0067
 type: system_requirement
-status: approved
+status: proposed
 title: Verify CMDB information
 text: The information stored in the CMDB shall be verified at planned intervals.
+normative: true
 links:
 - target: UR-0018
   type: implements

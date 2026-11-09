@@ -1,9 +1,10 @@
 uid: SR-0038
 type: system_requirement
-status: approved
+status: proposed
 title: Identify security requirements and define policies
-text: Information security requirements shall be identified and information security policies defined
-  and reviewed at planned intervals.
+text: Information security requirements shall be identified and information security
+  policies defined and reviewed at planned intervals.
+normative: true
 links:
 - target: UR-0013
   type: implements

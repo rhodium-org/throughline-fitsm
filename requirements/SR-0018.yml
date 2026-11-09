@@ -1,9 +1,10 @@
 uid: SR-0018
 type: system_requirement
-status: approved
+status: proposed
 title: Maintain a service portfolio
-text: A service portfolio shall be maintained. All services shall be specified as part of the service
-  portfolio.
+text: A service portfolio shall be maintained. All services shall be specified as
+  part of the service portfolio.
+normative: true
 links:
 - target: UR-0008
   type: implements

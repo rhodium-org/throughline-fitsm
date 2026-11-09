@@ -1,9 +1,10 @@
 uid: UR-0018
 type: user_requirement
-status: approved
+status: proposed
 title: Configuration Management (CONFM)
-text: The process that defines the scope of configuration management and maintains configuration information
-  about CIs in a CMDB.
+text: The process that defines the scope of configuration management and maintains
+  configuration information about CIs in a CMDB.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

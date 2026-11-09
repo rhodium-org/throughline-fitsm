@@ -1,8 +1,9 @@
 uid: SR-0024
 type: system_requirement
-status: approved
+status: proposed
 title: Evaluate service performance against SLA targets
 text: Service performance shall be evaluated against service targets defined in SLAs.
+normative: true
 links:
 - target: UR-0009
   type: implements

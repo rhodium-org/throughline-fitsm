@@ -1,8 +1,10 @@
 uid: UR-0010
 type: user_requirement
-status: approved
+status: proposed
 title: Service Reporting Management (SRM)
-text: The process that identifies, specifies and produces service and process reports for their recipients.
+text: The process that identifies, specifies and produces service and process reports
+  for their recipients.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

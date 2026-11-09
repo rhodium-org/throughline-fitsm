@@ -1,10 +1,11 @@
 uid: SR-0077
 type: system_requirement
-status: approved
+status: proposed
 title: Build, test and evaluate releases before deployment
-text: Releases shall be built, tested and evaluated against acceptance criteria prior to being deployed.
-  The extent of release testing shall be appropriate to the type of release and its potential impact on
-  services.
+text: Releases shall be built, tested and evaluated against acceptance criteria prior
+  to being deployed. The extent of release testing shall be appropriate to the type
+  of release and its potential impact on services.
+normative: true
 links:
 - target: UR-0020
   type: implements

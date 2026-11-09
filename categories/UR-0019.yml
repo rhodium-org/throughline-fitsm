@@ -1,9 +1,10 @@
 uid: UR-0019
 type: user_requirement
-status: approved
+status: proposed
 title: Change Management (CHM)
-text: The process that registers, classifies, assesses, approves and reviews changes and maintains a change
-  schedule.
+text: The process that registers, classifies, assesses, approves and reviews changes
+  and maintains a change schedule.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

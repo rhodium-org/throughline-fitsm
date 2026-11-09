@@ -1,10 +1,11 @@
 uid: SR-0074
 type: system_requirement
-status: approved
+status: proposed
 title: Define release and deployment strategies
-text: Release and deployment strategies shall be defined, together with the service components and CIs
-  to which they are applied. Strategies shall be aligned with the frequency and impact of releases as
-  well as the technology supporting deployment.
+text: Release and deployment strategies shall be defined, together with the service
+  components and CIs to which they are applied. Strategies shall be aligned with
+  the frequency and impact of releases as well as the technology supporting deployment.
+normative: true
 links:
 - target: UR-0020
   type: implements

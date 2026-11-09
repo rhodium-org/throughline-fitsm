@@ -1,8 +1,10 @@
 uid: UR-0008
 type: user_requirement
-status: approved
+status: proposed
 title: Service Portfolio Management (SPM)
-text: The process that maintains the service portfolio and manages services through their lifecycle.
+text: The process that maintains the service portfolio and manages services through
+  their lifecycle.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

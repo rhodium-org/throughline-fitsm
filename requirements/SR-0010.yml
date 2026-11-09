@@ -1,10 +1,12 @@
 uid: SR-0010
 type: system_requirement
-status: approved
+status: proposed
 title: Create and maintain a service management plan
-text: 'A service management plan shall be created and maintained. It shall include: goals and timing of
-  implementing or improving the SMS and the related processes; roles and responsibilities; training and
-  awareness activities; technology (tools) to support the SMS.'
+text: 'A service management plan shall be created and maintained. It shall include:
+  goals and timing of implementing or improving the SMS and the related processes;
+  roles and responsibilities; training and awareness activities; technology (tools)
+  to support the SMS.'
+normative: true
 links:
 - target: UR-0004
   type: implements

@@ -1,9 +1,10 @@
 uid: UR-0013
 type: user_requirement
-status: approved
+status: proposed
 title: Information Security Management (ISM)
-text: The process that identifies information security requirements and risks and implements controls
-  to meet them.
+text: The process that identifies information security requirements and risks and
+  implements controls to meet them.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

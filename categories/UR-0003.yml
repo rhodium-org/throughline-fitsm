@@ -1,9 +1,10 @@
 uid: UR-0003
 type: user_requirement
-status: approved
+status: proposed
 title: Scope & Stakeholders of IT Service Management (SCS)
-text: General SMS requirements for identifying stakeholders and defining the scope of the service management
-  system.
+text: General SMS requirements for identifying stakeholders and defining the scope
+  of the service management system.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

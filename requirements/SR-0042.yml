@@ -1,8 +1,10 @@
 uid: SR-0042
 type: system_requirement
-status: approved
+status: proposed
 title: Carry out access control consistently
-text: Access control, including provisioning of access rights, shall be carried out in a consistent manner.
+text: Access control, including provisioning of access rights, shall be carried out
+  in a consistent manner.
+normative: true
 links:
 - target: UR-0013
   type: implements

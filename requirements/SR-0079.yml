@@ -1,8 +1,9 @@
 uid: SR-0079
 type: system_requirement
-status: approved
+status: proposed
 title: Evaluate deployment success or failure
 text: Deployment activities shall be evaluated for success or failure.
+normative: true
 links:
 - target: UR-0020
   type: implements

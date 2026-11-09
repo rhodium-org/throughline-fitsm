@@ -1,8 +1,10 @@
 uid: SR-0011
 type: system_requirement
-status: approved
+status: proposed
 title: Align process-specific plans
-text: Any process-specific plan shall be aligned to the overall service management plan.
+text: Any process-specific plan shall be aligned to the overall service management
+  plan.
+normative: true
 links:
 - target: UR-0004
   type: implements

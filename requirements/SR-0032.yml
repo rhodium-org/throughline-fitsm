@@ -1,9 +1,10 @@
 uid: SR-0032
 type: system_requirement
-status: approved
+status: proposed
 title: Take measures to meet availability and continuity requirements
-text: Appropriate measures shall be taken to reduce the probability and impact of identified availability
-  and continuity risks and meet identified requirements.
+text: Appropriate measures shall be taken to reduce the probability and impact of
+  identified availability and continuity risks and meet identified requirements.
+normative: true
 links:
 - target: UR-0011
   type: implements

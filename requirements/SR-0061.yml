@@ -1,9 +1,10 @@
 uid: SR-0061
 type: system_requirement
-status: approved
+status: proposed
 title: Register known errors
-text: If a problem is not permanently resolved, a known error shall be registered together with actions
-  such as effective workarounds and temporary fixes.
+text: If a problem is not permanently resolved, a known error shall be registered
+  together with actions such as effective workarounds and temporary fixes.
+normative: true
 links:
 - target: UR-0017
   type: implements

@@ -1,9 +1,10 @@
 uid: SR-0059
 type: system_requirement
-status: approved
+status: proposed
 title: Identify and register problems
-text: Problems shall be identified and registered in a consistent manner, based on analysing patterns
-  and trends in the occurrence of incidents.
+text: Problems shall be identified and registered in a consistent manner, based on
+  analysing patterns and trends in the occurrence of incidents.
+normative: true
 links:
 - target: UR-0017
   type: implements

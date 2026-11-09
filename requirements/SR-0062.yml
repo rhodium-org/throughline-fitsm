@@ -1,8 +1,9 @@
 uid: SR-0062
 type: system_requirement
-status: approved
+status: proposed
 title: Maintain known-error information
 text: Up-to-date information on known errors and effective workarounds shall be maintained.
+normative: true
 links:
 - target: UR-0017
   type: implements

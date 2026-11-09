@@ -1,8 +1,9 @@
 uid: SR-0049
 type: system_requirement
-status: approved
+status: proposed
 title: Identify suppliers
 text: Internal and external suppliers shall be identified.
+normative: true
 links:
 - target: UR-0015
   type: implements

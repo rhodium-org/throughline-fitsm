@@ -1,8 +1,9 @@
 uid: SR-0048
 type: system_requirement
-status: approved
+status: proposed
 title: Manage customer satisfaction
 text: Customer satisfaction shall be managed.
+normative: true
 links:
 - target: UR-0014
   type: implements

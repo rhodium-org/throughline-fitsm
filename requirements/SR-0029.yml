@@ -1,8 +1,9 @@
 uid: SR-0029
 type: system_requirement
-status: approved
+status: proposed
 title: Produce and deliver reports
 text: Reports shall be produced and delivered to their recipients according to specifications.
+normative: true
 links:
 - target: UR-0010
   type: implements

@@ -1,9 +1,11 @@
 uid: SR-0014
 type: system_requirement
-status: approved
+status: proposed
 title: Measure effectiveness against KPIs
-text: The effectiveness of the SMS and its service management processes shall be measured and evaluated
-  based on suitable key performance indicators in support of defined or agreed goals.
+text: The effectiveness of the SMS and its service management processes shall be
+  measured and evaluated based on suitable key performance indicators in support
+  of defined or agreed goals.
+normative: true
 links:
 - target: UR-0006
   type: implements

@@ -1,8 +1,9 @@
 uid: SR-0022
 type: system_requirement
-status: approved
+status: proposed
 title: Maintain a service catalogue
 text: A service catalogue shall be maintained.
+normative: true
 links:
 - target: UR-0009
   type: implements

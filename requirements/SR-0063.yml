@@ -1,9 +1,10 @@
 uid: SR-0063
 type: system_requirement
-status: approved
+status: proposed
 title: Define the scope of configuration management
-text: The scope of configuration management shall be defined together with the types of configuration
-  items (CIs) and relationships to be considered.
+text: The scope of configuration management shall be defined together with the types
+  of configuration items (CIs) and relationships to be considered.
+normative: true
 links:
 - target: UR-0018
   type: implements

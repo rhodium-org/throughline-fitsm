@@ -1,9 +1,11 @@
 uid: SR-0040
 type: system_requirement
-status: approved
+status: proposed
 title: Implement information security controls
-text: Physical, technical and organisational information security controls shall be implemented to reduce
-  the probability and impact of identified information security risks and meet identified requirements.
+text: Physical, technical and organisational information security controls shall
+  be implemented to reduce the probability and impact of identified information security
+  risks and meet identified requirements.
+normative: true
 links:
 - target: UR-0013
   type: implements

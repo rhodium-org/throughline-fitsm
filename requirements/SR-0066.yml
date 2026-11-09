@@ -1,8 +1,9 @@
 uid: SR-0066
 type: system_requirement
-status: approved
+status: proposed
 title: Control CIs and track changes
 text: CIs shall be controlled and changes to CIs tracked in the CMDB.
+normative: true
 links:
 - target: UR-0018
   type: implements

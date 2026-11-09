@@ -1,8 +1,9 @@
 uid: SR-0031
 type: system_requirement
-status: approved
+status: proposed
 title: Assess availability and continuity risks
 text: Service availability and continuity risks shall be assessed at planned intervals.
+normative: true
 links:
 - target: UR-0011
   type: implements

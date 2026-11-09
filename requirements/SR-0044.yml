@@ -1,9 +1,10 @@
 uid: SR-0044
 type: system_requirement
-status: approved
+status: proposed
 title: Designate a contact for each customer
-text: For each customer, there shall be a designated contact responsible for managing the relationship
-  with them.
+text: For each customer, there shall be a designated contact responsible for managing
+  the relationship with them.
+normative: true
 links:
 - target: UR-0014
   type: implements

@@ -1,9 +1,10 @@
 uid: SR-0026
 type: system_requirement
-status: approved
+status: proposed
 title: Evaluate supporting performance against UA/OLA targets
-text: Performance of supporting services and service components shall be evaluated against targets defined
-  in UAs and OLAs.
+text: Performance of supporting services and service components shall be evaluated
+  against targets defined in UAs and OLAs.
+normative: true
 links:
 - target: UR-0009
   type: implements

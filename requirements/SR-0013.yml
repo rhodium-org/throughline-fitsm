@@ -1,9 +1,11 @@
 uid: SR-0013
 type: system_requirement
-status: approved
+status: proposed
 title: Follow and enforce the defined processes
-text: Within the scope of the SMS, the defined service management processes shall be followed in practice,
-  and their application, together with the adherence to related policies and procedures, shall be enforced.
+text: Within the scope of the SMS, the defined service management processes shall
+  be followed in practice, and their application, together with the adherence to
+  related policies and procedures, shall be enforced.
+normative: true
 links:
 - target: UR-0005
   type: implements

@@ -1,9 +1,10 @@
 uid: SR-0036
 type: system_requirement
-status: approved
+status: proposed
 title: Plan future capacity
-text: Future capacity shall be planned to meet identified requirements, considering human, technical and
-  financial resources.
+text: Future capacity shall be planned to meet identified requirements, considering
+  human, technical and financial resources.
+normative: true
 links:
 - target: UR-0012
   type: implements

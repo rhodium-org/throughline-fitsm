@@ -1,9 +1,11 @@
 uid: SR-0080
 type: system_requirement
-status: approved
+status: proposed
 title: Identify and register improvement opportunities
-text: Opportunities for improvement of services and processes shall be identified and registered, based
-  on reports as well as results from measurements, assessments and audits of the SMS.
+text: Opportunities for improvement of services and processes shall be identified
+  and registered, based on reports as well as results from measurements, assessments
+  and audits of the SMS.
+normative: true
 links:
 - target: UR-0021
   type: implements

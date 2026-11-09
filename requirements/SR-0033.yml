@@ -1,8 +1,9 @@
 uid: SR-0033
 type: system_requirement
-status: approved
+status: proposed
 title: Monitor availability
 text: Availability of services and service components shall be monitored.
+normative: true
 links:
 - target: UR-0011
   type: implements

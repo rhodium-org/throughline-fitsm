@@ -1,8 +1,9 @@
 uid: SR-0039
 type: system_requirement
-status: approved
+status: proposed
 title: Assess information security risks
 text: Information security risks shall be assessed at planned intervals.
+normative: true
 links:
 - target: UR-0013
   type: implements

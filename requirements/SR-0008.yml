@@ -1,9 +1,11 @@
 uid: SR-0008
 type: system_requirement
-status: approved
+status: proposed
 title: Identify and analyse stakeholders
-text: The stakeholders of the IT services and the SMS shall be identified and their needs and expectations
-  analysed. Relevant legal, regulatory and contractual requirements shall be considered.
+text: The stakeholders of the IT services and the SMS shall be identified and their
+  needs and expectations analysed. Relevant legal, regulatory and contractual requirements
+  shall be considered.
+normative: true
 links:
 - target: UR-0003
   type: implements

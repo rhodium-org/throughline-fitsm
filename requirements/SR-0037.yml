@@ -1,9 +1,10 @@
 uid: SR-0037
 type: system_requirement
-status: approved
+status: proposed
 title: Analyse performance from capacity monitoring
-text: Performance of services and service components shall be analysed based on monitoring the degree
-  of capacity utilisation and identifying operational warnings and exceptions.
+text: Performance of services and service components shall be analysed based on monitoring
+  the degree of capacity utilisation and identifying operational warnings and exceptions.
+normative: true
 links:
 - target: UR-0012
   type: implements

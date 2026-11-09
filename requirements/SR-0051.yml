@@ -1,8 +1,10 @@
 uid: SR-0051
 type: system_requirement
-status: approved
+status: proposed
 title: Establish supplier communication channels
-text: Channels used to communicate with each supplier, including escalation mechanisms, shall be established.
+text: Channels used to communicate with each supplier, including escalation mechanisms,
+  shall be established.
+normative: true
 links:
 - target: UR-0015
   type: implements

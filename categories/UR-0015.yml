@@ -1,9 +1,10 @@
 uid: UR-0015
 type: user_requirement
-status: approved
+status: proposed
 title: Supplier Relationship Management (SUPPM)
-text: The process that manages the relationship with internal and external suppliers, including communication
-  and evaluation.
+text: The process that manages the relationship with internal and external suppliers,
+  including communication and evaluation.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

@@ -1,9 +1,11 @@
 uid: SR-0073
 type: system_requirement
-status: approved
+status: proposed
 title: Maintain a schedule of changes
-text: A schedule of changes shall be maintained. It shall contain details of approved changes and intended
-  deployment dates, which shall be communicated to interested parties.
+text: A schedule of changes shall be maintained. It shall contain details of approved
+  changes and intended deployment dates, which shall be communicated to interested
+  parties.
+normative: true
 links:
 - target: UR-0019
   type: implements

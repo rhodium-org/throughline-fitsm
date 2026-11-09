@@ -1,9 +1,10 @@
 uid: SR-0064
 type: system_requirement
-status: approved
+status: proposed
 title: Set a sufficient level of configuration detail
-text: The level of detail of configuration information shall be sufficient to support effective control
-  over CIs.
+text: The level of detail of configuration information shall be sufficient to support
+  effective control over CIs.
+normative: true
 links:
 - target: UR-0018
   type: implements

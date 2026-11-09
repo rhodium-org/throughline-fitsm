@@ -1,8 +1,10 @@
 uid: UR-0012
 type: user_requirement
-status: approved
+status: proposed
 title: Capacity Management (CAPM)
-text: The process that identifies capacity and performance requirements and plans capacity to meet them.
+text: The process that identifies capacity and performance requirements and plans
+  capacity to meet them.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

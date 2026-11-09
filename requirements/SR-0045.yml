@@ -1,9 +1,10 @@
 uid: SR-0045
 type: system_requirement
-status: approved
+status: proposed
 title: Establish customer communication channels
-text: Channels used to communicate with each customer, including mechanisms for service ordering, escalation
-  and complaint shall be established.
+text: Channels used to communicate with each customer, including mechanisms for service
+  ordering, escalation and complaint shall be established.
+normative: true
 links:
 - target: UR-0014
   type: implements

@@ -1,8 +1,10 @@
 uid: SR-0076
 type: system_requirement
-status: approved
+status: proposed
 title: Plan deployment with acceptance criteria
-text: Deployment of releases shall be planned, including acceptance criteria, as needed.
+text: Deployment of releases shall be planned, including acceptance criteria, as
+  needed.
+normative: true
 links:
 - target: UR-0020
   type: implements

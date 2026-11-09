@@ -1,9 +1,10 @@
 uid: UR-0021
 type: user_requirement
-status: approved
+status: proposed
 title: Continual Service Improvement Management (CSI)
-text: The process that identifies, assesses and controls the implementation of improvements to services
-  and processes.
+text: The process that identifies, assesses and controls the implementation of improvements
+  to services and processes.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

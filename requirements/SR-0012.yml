@@ -1,8 +1,9 @@
 uid: SR-0012
 type: system_requirement
-status: approved
+status: proposed
 title: Implement the service management plan
 text: The service management plan shall be implemented.
+normative: true
 links:
 - target: UR-0005
   type: implements

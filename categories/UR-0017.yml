@@ -1,9 +1,10 @@
 uid: UR-0017
 type: user_requirement
-status: approved
+status: proposed
 title: Problem Management (PM)
-text: The process that identifies, investigates and manages problems and known errors behind recurring
-  incidents.
+text: The process that identifies, investigates and manages problems and known errors
+  behind recurring incidents.
+normative: true
 links:
 - target: INT-0001
   type: derives_from

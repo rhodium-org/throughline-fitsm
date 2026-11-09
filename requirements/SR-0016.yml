@@ -1,9 +1,10 @@
 uid: SR-0016
 type: system_requirement
-status: approved
+status: proposed
 title: Address nonconformities and deviations
-text: Nonconformities and deviations from goals shall be identified and actions shall be taken to prevent
-  them from recurring.
+text: Nonconformities and deviations from goals shall be identified and actions shall
+  be taken to prevent them from recurring.
+normative: true
 links:
 - target: UR-0007
   type: implements
